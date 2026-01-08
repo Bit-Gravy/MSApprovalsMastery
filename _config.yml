@@ -1,0 +1,17 @@
+# GitHub Pages Configuration
+title: MSApprovalsMastery
+description: The Definitive Guide to Approvals Architecture - From the Polymorphic Data Model to Sequential Gateways
+author: Bit Gravy
+
+# Theme configuration
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from the site
+exclude:
+  - README.md
+  - LICENSE
+  - .git
+  - .gitignore
